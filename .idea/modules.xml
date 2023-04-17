@@ -3,8 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/doudizhu/doudizhu.iml" filepath="$PROJECT_DIR$/doudizhu/doudizhu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/immutable/immutable.iml" filepath="$PROJECT_DIR$/immutable/immutable.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-Advanced learning.iml" filepath="$PROJECT_DIR$/.idea/java-Advanced learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methodreference/methodreference.iml" filepath="$PROJECT_DIR$/methodreference/methodreference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myexception/myexception.iml" filepath="$PROJECT_DIR$/myexception/myexception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myfile/myfile.iml" filepath="$PROJECT_DIR$/myfile/myfile.iml" />
       <module fileurl="file://$PROJECT_DIR$/mymap/mymap.iml" filepath="$PROJECT_DIR$/mymap/mymap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mystream/mystream.iml" filepath="$PROJECT_DIR$/mystream/mystream.iml" />
     </modules>
   </component>
 </project>
